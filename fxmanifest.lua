@@ -1,0 +1,6 @@
+fx_version 'cerulean'
+game 'gta5' 
+lua54 'yes'
+author 'Gusti Agung#9357'
+description 'This gusti-gym script makes players or citizens who can later exercise in the game, just like in the real world'
+version '1.0.0'
